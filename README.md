@@ -1,13 +1,18 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C94F35,100:53775C&amp;height=180&amp;section=header&amp;text=Chandan%20Kumar&amp;fontSize=42&amp;fontColor=fff&amp;animation=fadeIn" alt="Animated gradient wave banner" width="100%">
+
 # Chandan Kumar
 
-### Software Engineer II · Backend, Cloud & Platform · Agentic AI
+### Software Engineer II · Backend · Cloud · Agentic AI
 
-I build dependable backend services and cloud platforms—and explore Agentic AI,
+I build dependable backend services and cloud platforms, and explore Agentic AI,
 language models, and reliable code generation.
 
-[![Focus: Agentic AI](https://img.shields.io/badge/FOCUS-Agentic%20AI-7C3AED?style=for-the-badge)](#agentic-ai-and-llm-research)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=C94F35&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Backend+%26+Cloud+Engineer;Agentic+AI+Explorer;Reliable+Systems+Builder" alt="Animated text: Backend and Cloud Engineer, Agentic AI Explorer, Reliable Systems Builder">
+<br><br>
+
+[![Focus: Agentic AI](https://img.shields.io/badge/FOCUS-Agentic%20AI-7C3AED?style=for-the-badge)](#ai-and-agentic-ai-skills)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-C94F35?style=for-the-badge)](https://exploringgitandnetlify.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan4eu)
 [![Email](https://img.shields.io/badge/EMAIL-Say%20hello-53775C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandan4eu@gmail.com)
@@ -45,9 +50,13 @@ Built Java backend workflows on AWS with DynamoDB, shaped service contracts with
 
 </details>
 
-## Agentic AI and LLM research
+## AI and Agentic AI Skills
 
-Exploring **Agentic AI** and LLM applications alongside NLP, code-generation reliability, hallucination detection, and model evaluation. My M.Tech research combines execution and static-analysis signals with model explanations to guide code refinement.
+| Focus | Skills and research |
+|:--|:--|
+| **Agentic AI & LLMs** | Agentic AI exploration, LLM applications |
+| **NLP & language models** | GPT-2, PyTorch, Transformers, BPE and morpheme-based tokenization |
+| **AI reliability** | Code hallucination detection, Integrated Gradients, execution/static-analysis signals, model evaluation |
 
 ## Featured work
 
@@ -84,10 +93,6 @@ A Python code-reliability framework combining execution and static-analysis sign
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-**AI & research**
-
-Agentic AI · LLM applications · NLP · GPT-2 · PyTorch · Transformers · BPE and morpheme tokenization · Hallucination detection · Integrated Gradients · Model evaluation
-
 ---
 
 <div align="center">
@@ -97,3 +102,7 @@ Agentic AI · LLM applications · NLP · GPT-2 · PyTorch · Transformers · BPE
 [Portfolio](https://exploringgitandnetlify.netlify.app) · [LinkedIn](https://www.linkedin.com/in/chandan4eu) · [Email](mailto:chandan4eu@gmail.com)
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:53775C,100:C94F35&amp;height=100&amp;section=footer&amp;animation=fadeIn" alt="Animated gradient wave footer" width="100%">
+</p>
