@@ -2,11 +2,12 @@
 
 # Chandan Kumar
 
-### Software Engineer II · Backend, Cloud & Platform Engineering
+### Software Engineer II · Backend, Cloud & Platform · Agentic AI
 
-I build dependable services, design clear APIs, and make software more reliable.
-I also explore NLP, language models, and code-generation reliability.
+I build dependable backend services and cloud platforms—and explore Agentic AI,
+language models, and reliable code generation.
 
+[![Focus: Agentic AI](https://img.shields.io/badge/FOCUS-Agentic%20AI-7C3AED?style=for-the-badge)](#agentic-ai-and-llm-research)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-C94F35?style=for-the-badge)](https://exploringgitandnetlify.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandan4eu)
 [![Email](https://img.shields.io/badge/EMAIL-Say%20hello-53775C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandan4eu@gmail.com)
@@ -43,6 +44,10 @@ Built Java backend workflows on AWS with DynamoDB, shaped service contracts with
 - **API latency-threshold fix** — Investigated and corrected API latency-threshold handling as part of service reliability work.
 
 </details>
+
+## Agentic AI and LLM research
+
+Exploring **Agentic AI** and LLM applications alongside NLP, code-generation reliability, hallucination detection, and model evaluation. My M.Tech research combines execution and static-analysis signals with model explanations to guide code refinement.
 
 ## Featured work
 
@@ -81,7 +86,7 @@ A Python code-reliability framework combining execution and static-analysis sign
 
 **AI & research**
 
-NLP · GPT-2 · PyTorch · Transformers · BPE and morpheme tokenization · Hallucination detection · Integrated Gradients · Model evaluation
+Agentic AI · LLM applications · NLP · GPT-2 · PyTorch · Transformers · BPE and morpheme tokenization · Hallucination detection · Integrated Gradients · Model evaluation
 
 ---
 
